@@ -1,6 +1,7 @@
 # Bienvenue sur LYWAUTm.github.io
-Ce site vous présente mon CV dans le cadre de ma formation professionnelle.
 
-Situation :
+Je suis étudiant en développement web et web mobile à l'AFEC Angoulême.
 
-Je suis stagiaire à l'AFEC d'ANGOULÊME dans le domaine du développement web et web mobile.
+Je partage mes cours et TP réalisés depuis le début de ma formation.
+
+
